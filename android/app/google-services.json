@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923594967377",
+    "project_id": "chat-app-304ce",
+    "storage_bucket": "chat-app-304ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923594967377:android:f9b7b2b6c88d42586c6b70",
+        "android_client_info": {
+          "package_name": "com.harmanjaggi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923594967377-0jl0897ecoaa6ff618h5cs88086t0b4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4MI5geXMqi0epuFxChowdz40dqeKrcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923594967377-0jl0897ecoaa6ff618h5cs88086t0b4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
