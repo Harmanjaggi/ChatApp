@@ -62,14 +62,14 @@ class MyApp extends StatelessWidget {
           },
         ),
 
-        // initialRoute: Wrapper.id,
-        // routes: {
-        //   Wrapper.id: (context) => Wrapper(),
-        //   ResetScreen.id: (context) => ResetScreen(),
-        //   WelcomeScreen.id: (context) => WelcomeScreen(),
-        //   Home.id: (context) => Home(),
-        //   ProfileScreen.id: (context) => ProfileScreen(),
-        // },
+        initialRoute: Wrapper.id,
+        routes: {
+          Wrapper.id: (context) => Wrapper(),
+          ResetScreen.id: (context) => ResetScreen(),
+          WelcomeScreen.id: (context) => WelcomeScreen(),
+          Home.id: (context) => Home(),
+          ProfileScreen.id: (context) => ProfileScreen(),
+        },
       ),
     );
   }
